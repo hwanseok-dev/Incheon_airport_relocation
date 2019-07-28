@@ -40,4 +40,6 @@
 - MergeTerminalData : T1을 정리한 자료와 T2를 정리한 자료를 MergeData를 사용해서 합칠 때, 결과를 확실하게 하기 위해 또 다른 방법으로 구현한 코드(data1 += data2의 방식)
 - dataToResult : textToData의 자료를 Alliance별로 추리는 코드
 
-
+![result-1](/assets/images/result-1.jpg)  
+![result-2](/assets/images/result-2.jpg)  
+![result-3](/assets/images/result-3.jpg)  
